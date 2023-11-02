@@ -1,2 +1,4 @@
 
 *.jpg
+release/datasets/Multi-color-pouch-detection-1/*
+release/datasets/Multi-color-pouch-detection-2/*
